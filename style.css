@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    font-family: "Times New Roman", serif;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.app-container {
+    text-align: center;
+}
